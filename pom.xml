@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- groupID must be the business group ID or ORGID -->
     <groupId>63bb458c-4df0-482b-a82d-f360c08a3354</groupId>
-    <artifactId>greetings-Deepak</artifactId>
+    <artifactId>greetings-deepak</artifactId>
     <!-- This version is immutable, need to bump for every deployment-->
     <version>1.0.0</version>
     <packaging>mule-application</packaging>
     
-    <name>greetings-Deepak</name>
+    <name>greetings-deepak</name>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
